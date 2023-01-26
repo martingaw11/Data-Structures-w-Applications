@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+        "lib/**/*.jar",
+        "C:/Users/marti/Desktop/Data Structures w Applications/1.1.1 Tabulation/lib/algs4.jar",
+        "c:\\Users\\marti\\Desktop\\Java Libraries\\Princeton Lib\\algs4.jar"
+        ],
+        "sources": {
+            "library/algs4.jar": "library/sources/algs4-src.jar"
+        }
+    }
+}
