@@ -1,18 +1,3 @@
-## Getting Started
+## Random Word
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This is a class exercise not assigned for a grade in which we need to generate a Random Word from a list of words from a text file that is passed as an argumet. The main program file can be located within src and is commented with the general outline of what the process of choosing the random word looks like. There are methods imported from the library of Algs4 from the book being used for the class. The main one being StdRandom which is used for the Bernoulli method that is used to randomly decided if a word should be printed to Standard Output. Each word is considered to be printed to the screen, but only if the method returns True would they take priority, unless a latter word also has the method return True and, in that case, that word would take priority.
