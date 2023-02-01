@@ -1,3 +1,3 @@
-## Random Word
+# Random Word
 
 This is a class exercise not assigned for a grade in which we need to generate a Random Word from a list of words from a text file that is passed as an argumet. The main program file can be located within src and is commented with the general outline of what the process of choosing the random word looks like. There are methods imported from the library of Algs4 from the book being used for the class. The main one being StdRandom which is used for the Bernoulli method that is used to randomly decided if a word should be printed to Standard Output. Each word is considered to be printed to the screen, but only if the method returns True would they take priority, unless a latter word also has the method return True and, in that case, that word would take priority.
