@@ -3,6 +3,7 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Users\\marti\\Desktop\\Java Libraries\\Princeton Lib\\algs4.jar"
+        "c:\\Users\\marti\\Desktop\\Java Libraries\\Princeton Lib\\algs4.jar",
+        "c:\\Users\\marti\\Desktop\\Algs4\\algs4.jar"
     ]
 }
