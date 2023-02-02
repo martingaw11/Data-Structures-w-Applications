@@ -12,10 +12,23 @@ import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.Stack;
 
+/*
+ * The class Parentheses stores the initial string of '(){}[]' chars,
+ * upong construction the class stores the single parameter string, 
+ * and then uses that string to determine if it is balanced and stores
+ * that into the isBoolean variable. The entire process could have been
+ * written as a single function, but for java and organization purposes,
+ * an object is created that stores these attribute values for each instance.
+ */
 public class Parentheses {
+    // String parentheses is final since it will never change once it is assigned
     private final String parentheses;
     private boolean isBalanced;
 
+    /*
+     * Constructor takes in the string of chars '(){}[]' and stores it in String parentheses
+     * Then it determines whether the parentheses is balanced or not and stores that in boolean isBalanced
+     */
     public Parentheses(String parentheses) {
         this.parentheses = parentheses;
 
@@ -65,20 +78,32 @@ public class Parentheses {
         }
     }
 
+    // Returns if the string is balanced or not
     public boolean isBalanced() {
         return isBalanced;
     }
 
+    // Returns the String parentheses as this is basically the identity of the class
     public String toString() {
         return parentheses;
     }
 
 
+    /*
+     * Test client for the class. A text file of various different parenthetical strings
+     * is passed as an argument. Eachline is used to create a Parentheses object, which 
+     * stores if it is balanced as a class attribute. This is then used to print to 
+     * Standard Output to show if the string is balanced.
+     */
     public static void main(String[] args) throws Exception {
+        // Looping through each line of the text file and checking if string is balanced
         while (StdIn.hasNextLine()) {
             String input = StdIn.readString();
 
+            // Creating a Parentheses object which process the string and determines if it is balanced
             Parentheses testing = new Parentheses(input);
+
+            // Using the Parentheses object, we print out the string and whether it is balanced in a formatted manner
             StdOut.printf("%-25s", testing);
             StdOut.println(testing.isBalanced);
         }
