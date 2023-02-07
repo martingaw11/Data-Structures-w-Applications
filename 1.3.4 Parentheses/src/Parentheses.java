@@ -27,17 +27,35 @@ public class Parentheses {
 
     /*
      * Constructor takes in the string of chars '(){}[]' and stores it in String parentheses
-     * Then it determines whether the parentheses is balanced or not and stores that in boolean isBalanced
+     * Then it passes the parentheses to the algorithm method so that we can set the value of
+     * isBalanced to store whether the parenthetical is balanced or not
      */
     public Parentheses(String parentheses) {
         this.parentheses = parentheses;
 
+        // Passing parentheses to the algorithm so we can set the value of isBalanced
+        determineBalance(parentheses);      
+    }
+
+    // Returns if the string is balanced or not
+    public boolean isBalanced() {
+        return isBalanced;
+    }
+
+    /*
+     * This is the method that runs the algorithm for determining if the parentheses
+     * is balanced or not. This will set the attribute isBalanced to the corresponding
+     * boolean value of whether there is a balance in the parenthetical or not.
+     * This will also return isBalanced right away, so that this method can be used without the
+     * creation of a Parentheses object.
+     */
+    public boolean determineBalance(String subject) {
         // Creating a stack for the parentheses '({[' as we encounter them in the string
         Stack<Character> leftHand = new Stack<Character>();
 
         // Looping through each character to determine whether the string is balanced
-        for (int i = 0; i < parentheses.length(); i++) {
-            char c = parentheses.charAt(i);
+        for (int i = 0; i < subject.length(); i++) {
+            char c = subject.charAt(i);
 
             // Determing if the current character is in '({[' and adding it to end of stack
             if (c == '(' || c == '{' || c == '[') {
@@ -76,10 +94,8 @@ public class Parentheses {
         if (isBalanced && !leftHand.isEmpty()) {
             isBalanced = false;
         }
-    }
 
-    // Returns if the string is balanced or not
-    public boolean isBalanced() {
+        // This can return the boolean value in case the user does not want to create an object
         return isBalanced;
     }
 
