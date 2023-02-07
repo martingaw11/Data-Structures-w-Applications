@@ -22,8 +22,8 @@ import edu.princeton.cs.algs4.Stack;
  */
 public class Parentheses {
     // String parentheses is final since it will never change once it is assigned
-    private final String parentheses;
-    private boolean isBalanced;
+    private static String parentheses;
+    private static boolean isBalanced;
 
     /*
      * Constructor takes in the string of chars '(){}[]' and stores it in String parentheses
@@ -31,7 +31,7 @@ public class Parentheses {
      * isBalanced to store whether the parenthetical is balanced or not
      */
     public Parentheses(String parentheses) {
-        this.parentheses = parentheses;
+        setParentheses(parentheses);
 
         // Passing parentheses to the algorithm so we can set the value of isBalanced
         determineBalance(parentheses);      
@@ -49,7 +49,7 @@ public class Parentheses {
      * This will also return isBalanced right away, so that this method can be used without the
      * creation of a Parentheses object.
      */
-    public boolean determineBalance(String subject) {
+    public static boolean determineBalance(String subject) {
         // Creating a stack for the parentheses '({[' as we encounter them in the string
         Stack<Character> leftHand = new Stack<Character>();
 
@@ -99,6 +99,14 @@ public class Parentheses {
         return isBalanced;
     }
 
+    public void setBalance(boolean bool) {
+        isBalanced = bool;
+    }
+
+    public void setParentheses(String string) {
+        parentheses = string;
+    }
+
     // Returns the String parentheses as this is basically the identity of the class
     public String toString() {
         return parentheses;
@@ -121,7 +129,14 @@ public class Parentheses {
 
             // Using the Parentheses object, we print out the string and whether it is balanced in a formatted manner
             StdOut.printf("%-25s", testing);
-            StdOut.println(testing.isBalanced);
+            StdOut.println(testing.isBalanced());
         }
+
+        // Testing using the method without creation of a Parentheses object
+        StdOut.println();
+        StdOut.printf("%-25s", "[{()[]}[{}]]((){[]})");
+        StdOut.println(Parentheses.determineBalance("[{()[]}[{}]]((){[]})"));
+        StdOut.printf("%-25s", "[{()[]}[{}]](({[]})");
+        StdOut.println(Parentheses.determineBalance("[{()[]}[{}]](({[]})"));
     }
 }
