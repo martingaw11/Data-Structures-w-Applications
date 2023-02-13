@@ -1,18 +1,7 @@
-## Getting Started
+# Parentheses
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This assignment was to practice using stacks, while learning about stacks, queues, and bags. This is a basic practice problem for deciding whether or not the parenthetical input is balanced or not, which is a precursor to understanding how mathematical operations are handled by the interpreter. By using stacks and understanding how PEMDAS is implemented in programs.
 
-## Folder Structure
+## Parentheses.java
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Although not necessary for the operation that is taking place, a parentheses object can be made to store the parenthetical string and whether or not it is balanced or not. The test client within the class shows that either Parentheses objects can be made or just simply using the determineBalance method without creating an object.
