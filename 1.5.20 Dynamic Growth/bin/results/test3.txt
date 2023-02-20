@@ -1,0 +1,202 @@
+Weight Quick Union UF                        Dynamic UF                                 Test Check
+---------------------------------------------------------------------------------------------------
+178 connecting to 205                        178 connecting to 205                          Passed
+180 connecting to 63                         180 connecting to 63                           Passed
+50 connecting to 59                          50 connecting to 59                            Passed
+111 connecting to 81                         111 connecting to 81                           Passed
+195 connecting to 167                        195 connecting to 167                          Passed
+192 connecting to 215                        192 connecting to 215                          Passed
+198 connecting to 179                        198 connecting to 179                          Passed
+91 connecting to 63                          91 connecting to 63                            Passed
+52 connecting to 203                         52 connecting to 203                           Passed
+148 connecting to 149                        148 connecting to 149                          Passed
+111 connecting to 92                         111 connecting to 92                           Passed
+217 connecting to 166                        217 connecting to 166                          Passed
+63 connecting to 86                          63 connecting to 86                            Passed
+181 connecting to 214                        181 connecting to 214                          Passed
+20 connecting to 108                         20 connecting to 108                           Passed
+56 connecting to 121                         56 connecting to 121                           Passed
+94 connecting to 181                         94 connecting to 181                           Passed
+119 connecting to 80                         119 connecting to 80                           Passed
+77 connecting to 144                         77 connecting to 144                           Passed
+79 connecting to 116                         79 connecting to 116                           Passed
+135 connecting to 86                         135 connecting to 86                           Passed
+11 connecting to 66                          11 connecting to 66                            Passed
+103 connecting to 176                        103 connecting to 176                          Passed
+141 connecting to 173                        141 connecting to 173                          Passed
+7 connecting to 79                           7 connecting to 79                             Passed
+186 connecting to 210                        186 connecting to 210                          Passed
+223 connecting to 217                        223 connecting to 217                          Passed
+127 connecting to 124                        127 connecting to 124                          Passed
+193 connecting to 203                        193 connecting to 203                          Passed
+84 connecting to 87                          84 connecting to 87                            Passed
+173 connecting to 80                         173 connecting to 80                           Passed
+133 connecting to 199                        133 connecting to 199                          Passed
+219 connecting to 180                        219 connecting to 180                          Passed
+165 connecting to 116                        165 connecting to 116                          Passed
+144 connecting to 216                        144 connecting to 216                          Passed
+0 connecting to 175                          0 connecting to 175                            Passed
+11 connecting to 16                          11 connecting to 16                            Passed
+107 connecting to 209                        107 connecting to 209                          Passed
+127 connecting to 125                        127 connecting to 125                          Passed
+14 connecting to 192                         14 connecting to 192                           Passed
+56 connecting to 2                           56 connecting to 2                             Passed
+158 connecting to 218                        158 connecting to 218                          Passed
+132 connecting to 86                         132 connecting to 86                           Passed
+139 connecting to 117                        139 connecting to 117                          Passed
+138 connecting to 169                        138 connecting to 169                          Passed
+110 connecting to 142                        110 connecting to 142                          Passed
+117 connecting to 16                         117 connecting to 16                           Passed
+122 connecting to 111                        122 connecting to 111                          Passed
+26 connecting to 173                         26 connecting to 173                           Passed
+20 connecting to 155                         20 connecting to 155                           Passed
+20 connecting to 91                          20 connecting to 91                            Passed
+151 connecting to 184                        151 connecting to 184                          Passed
+131 connecting to 60                         131 connecting to 60                           Passed
+194 connecting to 159                        194 connecting to 159                          Passed
+30 connecting to 213                         30 connecting to 213                           Passed
+216 connecting to 126                        216 connecting to 126                          Passed
+120 connecting to 33                         120 connecting to 33                           Passed
+159 connecting to 120                        159 connecting to 120                          Passed
+135 connecting to 32                         135 connecting to 32                           Passed
+173 connecting to 38                         173 connecting to 38                           Passed
+25 connecting to 19                          25 connecting to 19                            Passed
+97 connecting to 83                          97 connecting to 83                            Passed
+145 connecting to 77                         145 connecting to 77                           Passed
+85 connecting to 221                         85 connecting to 221                           Passed
+39 connecting to 175                         39 connecting to 175                           Passed
+169 connecting to 129                        169 connecting to 129                          Passed
+68 connecting to 137                         68 connecting to 137                           Passed
+102 connecting to 76                         102 connecting to 76                           Passed
+52 connecting to 97                          52 connecting to 97                            Passed
+53 connecting to 79                          53 connecting to 79                            Passed
+172 connecting to 56                         172 connecting to 56                           Passed
+160 connecting to 196                        160 connecting to 196                          Passed
+100 connecting to 3                          100 connecting to 3                            Passed
+160 connecting to 84                         160 connecting to 84                           Passed
+222 connecting to 102                        222 connecting to 102                          Passed
+31 connecting to 199                         31 connecting to 199                           Passed
+24 connecting to 80                          24 connecting to 80                            Passed
+174 connecting to 162                        174 connecting to 162                          Passed
+133 connecting to 206                        133 connecting to 206                          Passed
+67 connecting to 112                         67 connecting to 112                           Passed
+43 connecting to 104                         43 connecting to 104                           Passed
+176 connecting to 27                         176 connecting to 27                           Passed
+52 connecting to 7                           52 connecting to 7                             Passed
+87 connecting to 6                           87 connecting to 6                             Passed
+48 connecting to 37                          48 connecting to 37                            Passed
+123 connecting to 28                         123 connecting to 28                           Passed
+104 connecting to 71                         104 connecting to 71                           Passed
+20 connecting to 184                         20 connecting to 184                           Passed
+158 connecting to 13                         158 connecting to 13                           Passed
+6 connecting to 74                           6 connecting to 74                             Passed
+191 connecting to 54                         191 connecting to 54                           Passed
+126 connecting to 4                          126 connecting to 4                            Passed
+98 connecting to 50                          98 connecting to 50                            Passed
+13 connecting to 19                          13 connecting to 19                            Passed
+59 connecting to 116                         59 connecting to 116                           Passed
+9 connecting to 64                           9 connecting to 64                             Passed
+178 connecting to 9                          178 connecting to 9                            Passed
+50 connecting to 103                         50 connecting to 103                           Passed
+186 connecting to 97                         186 connecting to 97                           Passed
+121 connecting to 131                        121 connecting to 131                          Passed
+202 connecting to 89                         202 connecting to 89                           Passed
+23 connecting to 138                         23 connecting to 138                           Passed
+163 connecting to 23                         163 connecting to 23                           Passed
+172 connecting to 1                          172 connecting to 1                            Passed
+40 connecting to 191                         40 connecting to 191                           Passed
+78 connecting to 142                         78 connecting to 142                           Passed
+73 connecting to 170                         73 connecting to 170                           Passed
+103 already connected to 97                  103 already connected to 97                    Passed
+208 connecting to 112                        208 connecting to 112                          Passed
+78 connecting to 183                         78 connecting to 183                           Passed
+7 connecting to 128                          7 connecting to 128                            Passed
+124 connecting to 86                         124 connecting to 86                           Passed
+109 connecting to 63                         109 connecting to 63                           Passed
+106 connecting to 121                        106 connecting to 121                          Passed
+6 connecting to 7                            6 connecting to 7                              Passed
+34 connecting to 143                         34 connecting to 143                           Passed
+222 connecting to 138                        222 connecting to 138                          Passed
+125 connecting to 37                         125 connecting to 37                           Passed
+210 connecting to 95                         210 connecting to 95                           Passed
+36 connecting to 16                          36 connecting to 16                            Passed
+54 connecting to 47                          54 connecting to 47                            Passed
+175 connecting to 198                        175 connecting to 198                          Passed
+109 already connected to 124                 109 already connected to 124                   Passed
+206 connecting to 70                         206 connecting to 70                           Passed
+26 connecting to 224                         26 connecting to 224                           Passed
+199 connecting to 79                         199 connecting to 79                           Passed
+81 connecting to 156                         81 connecting to 156                           Passed
+60 already connected to 131                  60 already connected to 131                    Passed
+124 connecting to 130                        124 connecting to 130                          Passed
+124 connecting to 39                         124 connecting to 39                           Passed
+73 connecting to 76                          73 connecting to 76                            Passed
+2 connecting to 71                           2 connecting to 71                             Passed
+195 connecting to 116                        195 connecting to 116                          Passed
+36 connecting to 40                          36 connecting to 40                            Passed
+73 connecting to 21                          73 connecting to 21                            Passed
+16 connecting to 209                         16 connecting to 209                           Passed
+165 connecting to 0                          165 connecting to 0                            Passed
+164 connecting to 163                        164 connecting to 163                          Passed
+18 connecting to 29                          18 connecting to 29                            Passed
+113 connecting to 31                         113 connecting to 31                           Passed
+33 connecting to 39                          33 connecting to 39                            Passed
+87 connecting to 220                         87 connecting to 220                           Passed
+167 connecting to 73                         167 connecting to 73                           Passed
+44 connecting to 50                          44 connecting to 50                            Passed
+89 connecting to 16                          89 connecting to 16                            Passed
+158 connecting to 109                        158 connecting to 109                          Passed
+168 connecting to 105                        168 connecting to 105                          Passed
+192 connecting to 79                         192 connecting to 79                           Passed
+54 connecting to 221                         54 connecting to 221                           Passed
+68 connecting to 8                           68 connecting to 8                             Passed
+128 connecting to 123                        128 connecting to 123                          Passed
+69 connecting to 36                          69 connecting to 36                            Passed
+198 connecting to 143                        198 connecting to 143                          Passed
+15 connecting to 172                         15 connecting to 172                           Passed
+156 connecting to 7                          156 connecting to 7                            Passed
+8 connecting to 77                           8 connecting to 77                             Passed
+107 connecting to 106                        107 connecting to 106                          Passed
+192 connecting to 134                        192 connecting to 134                          Passed
+32 connecting to 114                         32 connecting to 114                           Passed
+50 already connected to 13                   50 already connected to 13                     Passed
+58 connecting to 169                         58 connecting to 169                           Passed
+165 connecting to 211                        165 connecting to 211                          Passed
+67 connecting to 198                         67 connecting to 198                           Passed
+186 already connected to 108                 186 already connected to 108                   Passed
+5 connecting to 135                          5 connecting to 135                            Passed
+108 connecting to 115                        108 connecting to 115                          Passed
+80 connecting to 145                         80 connecting to 145                           Passed
+40 connecting to 116                         40 connecting to 116                           Passed
+195 already connected to 14                  195 already connected to 14                    Passed
+189 connecting to 213                        189 connecting to 213                          Passed
+0 connecting to 9                            0 connecting to 9                              Passed
+27 already connected to 128                  27 already connected to 128                    Passed
+89 already connected to 2                    89 already connected to 2                      Passed
+186 already connected to 76                  186 already connected to 76                    Passed
+200 connecting to 32                         200 connecting to 32                           Passed
+88 connecting to 137                         88 connecting to 137                           Passed
+121 connecting to 62                         121 connecting to 62                           Passed
+194 already connected to 180                 194 already connected to 180                   Passed
+91 already connected to 191                  91 already connected to 191                    Passed
+86 connecting to 105                         86 connecting to 105                           Passed
+163 already connected to 39                  163 already connected to 39                    Passed
+126 connecting to 146                        126 connecting to 146                          Passed
+56 already connected to 11                   56 already connected to 11                     Passed
+156 connecting to 212                        156 connecting to 212                          Passed
+29 connecting to 75                          29 connecting to 75                            Passed
+218 already connected to 91                  218 already connected to 91                    Passed
+68 connecting to 66                          68 connecting to 66                            Passed
+149 connecting to 119                        149 connecting to 119                          Passed
+222 connecting to 213                        222 connecting to 213                          Passed
+127 already connected to 175                 127 already connected to 175                   Passed
+76 already connected to 105                  76 already connected to 105                    Passed
+178 already connected to 126                 178 already connected to 126                   Passed
+125 already connected to 71                  125 already connected to 71                    Passed
+91 already connected to 80                   91 already connected to 80                     Passed
+74 already connected to 98                   74 already connected to 98                     Passed
+35 connecting to 102                         35 connecting to 102                           Passed
+148 already connected to 167                 148 already connected to 167                   Passed
+14 already connected to 39                   14 already connected to 39                     Passed
+106 already connected to 151                 106 already connected to 151                   Passed
+194 already connected to 173                 194 already connected to 173                   Passed

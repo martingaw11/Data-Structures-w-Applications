@@ -1,0 +1,577 @@
+Weight Quick Union UF                        Dynamic UF                                 Test Check
+---------------------------------------------------------------------------------------------------
+489 connecting to 66                         489 connecting to 66                           Passed
+533 connecting to 542                        533 connecting to 542                          Passed
+588 connecting to 285                        588 connecting to 285                          Passed
+65 connecting to 618                         65 connecting to 618                           Passed
+531 connecting to 586                        531 connecting to 586                          Passed
+223 connecting to 51                         223 connecting to 51                           Passed
+456 connecting to 5                          456 connecting to 5                            Passed
+142 connecting to 555                        142 connecting to 555                          Passed
+484 connecting to 99                         484 connecting to 99                           Passed
+354 connecting to 531                        354 connecting to 531                          Passed
+30 connecting to 120                         30 connecting to 120                           Passed
+171 connecting to 446                        171 connecting to 446                          Passed
+608 connecting to 236                        608 connecting to 236                          Passed
+78 connecting to 31                          78 connecting to 31                            Passed
+210 connecting to 504                        210 connecting to 504                          Passed
+528 connecting to 300                        528 connecting to 300                          Passed
+112 connecting to 258                        112 connecting to 258                          Passed
+338 connecting to 178                        338 connecting to 178                          Passed
+62 connecting to 286                         62 connecting to 286                           Passed
+226 connecting to 236                        226 connecting to 236                          Passed
+547 connecting to 501                        547 connecting to 501                          Passed
+472 connecting to 89                         472 connecting to 89                           Passed
+621 connecting to 231                        621 connecting to 231                          Passed
+49 connecting to 389                         49 connecting to 389                           Passed
+64 connecting to 19                          64 connecting to 19                            Passed
+623 connecting to 268                        623 connecting to 268                          Passed
+438 connecting to 126                        438 connecting to 126                          Passed
+614 connecting to 426                        614 connecting to 426                          Passed
+545 connecting to 35                         545 connecting to 35                           Passed
+510 connecting to 219                        510 connecting to 219                          Passed
+7 connecting to 238                          7 connecting to 238                            Passed
+623 connecting to 385                        623 connecting to 385                          Passed
+482 connecting to 374                        482 connecting to 374                          Passed
+614 connecting to 437                        614 connecting to 437                          Passed
+588 connecting to 459                        588 connecting to 459                          Passed
+401 connecting to 169                        401 connecting to 169                          Passed
+299 connecting to 254                        299 connecting to 254                          Passed
+612 connecting to 233                        612 connecting to 233                          Passed
+484 connecting to 65                         484 connecting to 65                           Passed
+296 connecting to 299                        296 connecting to 299                          Passed
+545 connecting to 600                        545 connecting to 600                          Passed
+178 connecting to 181                        178 connecting to 181                          Passed
+209 connecting to 51                         209 connecting to 51                           Passed
+367 connecting to 452                        367 connecting to 452                          Passed
+476 connecting to 24                         476 connecting to 24                           Passed
+502 connecting to 205                        502 connecting to 205                          Passed
+12 connecting to 213                         12 connecting to 213                           Passed
+134 connecting to 400                        134 connecting to 400                          Passed
+405 connecting to 333                        405 connecting to 333                          Passed
+377 connecting to 299                        377 connecting to 299                          Passed
+313 connecting to 596                        313 connecting to 596                          Passed
+230 connecting to 487                        230 connecting to 487                          Passed
+241 connecting to 503                        241 connecting to 503                          Passed
+466 connecting to 624                        466 connecting to 624                          Passed
+223 connecting to 75                         223 connecting to 75                           Passed
+611 connecting to 2                          611 connecting to 2                            Passed
+385 connecting to 44                         385 connecting to 44                           Passed
+93 connecting to 129                         93 connecting to 129                           Passed
+188 connecting to 592                        188 connecting to 592                          Passed
+498 connecting to 295                        498 connecting to 295                          Passed
+314 connecting to 437                        314 connecting to 437                          Passed
+537 connecting to 22                         537 connecting to 22                           Passed
+343 connecting to 457                        343 connecting to 457                          Passed
+466 connecting to 523                        466 connecting to 523                          Passed
+483 connecting to 493                        483 connecting to 493                          Passed
+153 connecting to 329                        153 connecting to 329                          Passed
+26 connecting to 163                         26 connecting to 163                           Passed
+217 connecting to 91                         217 connecting to 91                           Passed
+223 connecting to 313                        223 connecting to 313                          Passed
+132 connecting to 475                        132 connecting to 475                          Passed
+110 connecting to 318                        110 connecting to 318                          Passed
+444 connecting to 243                        444 connecting to 243                          Passed
+436 connecting to 367                        436 connecting to 367                          Passed
+142 connecting to 346                        142 connecting to 346                          Passed
+225 connecting to 50                         225 connecting to 50                           Passed
+417 connecting to 500                        417 connecting to 500                          Passed
+372 connecting to 607                        372 connecting to 607                          Passed
+341 connecting to 283                        341 connecting to 283                          Passed
+396 connecting to 624                        396 connecting to 624                          Passed
+507 connecting to 68                         507 connecting to 68                           Passed
+307 connecting to 240                        307 connecting to 240                          Passed
+155 connecting to 354                        155 connecting to 354                          Passed
+467 connecting to 7                          467 connecting to 7                            Passed
+209 connecting to 597                        209 connecting to 597                          Passed
+553 connecting to 65                         553 connecting to 65                           Passed
+442 connecting to 116                        442 connecting to 116                          Passed
+347 connecting to 610                        347 connecting to 610                          Passed
+604 connecting to 81                         604 connecting to 81                           Passed
+530 connecting to 102                        530 connecting to 102                          Passed
+543 connecting to 539                        543 connecting to 539                          Passed
+579 connecting to 269                        579 connecting to 269                          Passed
+363 connecting to 74                         363 connecting to 74                           Passed
+67 connecting to 81                          67 connecting to 81                            Passed
+161 connecting to 58                         161 connecting to 58                           Passed
+220 connecting to 574                        220 connecting to 574                          Passed
+13 connecting to 160                         13 connecting to 160                           Passed
+600 connecting to 257                        600 connecting to 257                          Passed
+478 connecting to 376                        478 connecting to 376                          Passed
+337 connecting to 557                        337 connecting to 557                          Passed
+83 connecting to 594                         83 connecting to 594                           Passed
+370 connecting to 163                        370 connecting to 163                          Passed
+256 connecting to 434                        256 connecting to 434                          Passed
+287 connecting to 367                        287 connecting to 367                          Passed
+390 connecting to 551                        390 connecting to 551                          Passed
+402 connecting to 299                        402 connecting to 299                          Passed
+593 connecting to 416                        593 connecting to 416                          Passed
+64 connecting to 478                         64 connecting to 478                           Passed
+511 connecting to 43                         511 connecting to 43                           Passed
+167 connecting to 398                        167 connecting to 398                          Passed
+278 connecting to 611                        278 connecting to 611                          Passed
+69 connecting to 401                         69 connecting to 401                           Passed
+197 connecting to 620                        197 connecting to 620                          Passed
+17 connecting to 228                         17 connecting to 228                           Passed
+231 connecting to 355                        231 connecting to 355                          Passed
+349 connecting to 202                        349 connecting to 202                          Passed
+454 connecting to 86                         454 connecting to 86                           Passed
+311 connecting to 213                        311 connecting to 213                          Passed
+518 connecting to 20                         518 connecting to 20                           Passed
+15 connecting to 143                         15 connecting to 143                           Passed
+529 connecting to 241                        529 connecting to 241                          Passed
+93 connecting to 26                          93 connecting to 26                            Passed
+508 connecting to 352                        508 connecting to 352                          Passed
+521 connecting to 294                        521 connecting to 294                          Passed
+597 connecting to 570                        597 connecting to 570                          Passed
+208 connecting to 12                         208 connecting to 12                           Passed
+421 connecting to 38                         421 connecting to 38                           Passed
+346 connecting to 494                        346 connecting to 494                          Passed
+109 connecting to 32                         109 connecting to 32                           Passed
+254 connecting to 89                         254 connecting to 89                           Passed
+273 connecting to 161                        273 connecting to 161                          Passed
+10 connecting to 473                         10 connecting to 473                           Passed
+250 connecting to 437                        250 connecting to 437                          Passed
+125 connecting to 555                        125 connecting to 555                          Passed
+504 connecting to 256                        504 connecting to 256                          Passed
+526 connecting to 584                        526 connecting to 584                          Passed
+301 connecting to 608                        301 connecting to 608                          Passed
+215 connecting to 281                        215 connecting to 281                          Passed
+363 connecting to 282                        363 connecting to 282                          Passed
+490 connecting to 450                        490 connecting to 450                          Passed
+76 connecting to 518                         76 connecting to 518                           Passed
+339 connecting to 321                        339 connecting to 321                          Passed
+365 connecting to 30                         365 connecting to 30                           Passed
+604 connecting to 378                        604 connecting to 378                          Passed
+464 connecting to 72                         464 connecting to 72                           Passed
+531 connecting to 216                        531 connecting to 216                          Passed
+492 connecting to 258                        492 connecting to 258                          Passed
+410 connecting to 68                         410 connecting to 68                           Passed
+275 connecting to 335                        275 connecting to 335                          Passed
+502 connecting to 595                        502 connecting to 595                          Passed
+596 connecting to 30                         596 connecting to 30                           Passed
+212 connecting to 46                         212 connecting to 46                           Passed
+457 connecting to 565                        457 connecting to 565                          Passed
+522 connecting to 291                        522 connecting to 291                          Passed
+364 connecting to 492                        364 connecting to 492                          Passed
+226 connecting to 484                        226 connecting to 484                          Passed
+340 connecting to 123                        340 connecting to 123                          Passed
+378 connecting to 442                        378 connecting to 442                          Passed
+377 connecting to 614                        377 connecting to 614                          Passed
+71 connecting to 471                         71 connecting to 471                           Passed
+409 connecting to 423                        409 connecting to 423                          Passed
+144 connecting to 489                        144 connecting to 489                          Passed
+175 connecting to 410                        175 connecting to 410                          Passed
+305 connecting to 317                        305 connecting to 317                          Passed
+306 connecting to 104                        306 connecting to 104                          Passed
+242 connecting to 144                        242 connecting to 144                          Passed
+209 connecting to 37                         209 connecting to 37                           Passed
+22 connecting to 120                         22 connecting to 120                           Passed
+336 connecting to 416                        336 connecting to 416                          Passed
+59 connecting to 569                         59 connecting to 569                           Passed
+471 connecting to 178                        471 connecting to 178                          Passed
+534 connecting to 520                        534 connecting to 520                          Passed
+154 connecting to 221                        154 connecting to 221                          Passed
+174 connecting to 36                         174 connecting to 36                           Passed
+326 connecting to 57                         326 connecting to 57                           Passed
+491 connecting to 75                         491 connecting to 75                           Passed
+469 connecting to 63                         469 connecting to 63                           Passed
+348 connecting to 581                        348 connecting to 581                          Passed
+500 connecting to 428                        500 connecting to 428                          Passed
+21 connecting to 194                         21 connecting to 194                           Passed
+71 connecting to 98                          71 connecting to 98                            Passed
+300 connecting to 557                        300 connecting to 557                          Passed
+275 connecting to 146                        275 connecting to 146                          Passed
+86 connecting to 436                         86 connecting to 436                           Passed
+231 connecting to 132                        231 connecting to 132                          Passed
+596 already connected to 209                 596 already connected to 209                   Passed
+506 connecting to 391                        506 connecting to 391                          Passed
+258 connecting to 538                        258 connecting to 538                          Passed
+472 connecting to 8                          472 connecting to 8                            Passed
+291 connecting to 261                        291 connecting to 261                          Passed
+22 connecting to 493                         22 connecting to 493                           Passed
+203 connecting to 412                        203 connecting to 412                          Passed
+185 connecting to 505                        185 connecting to 505                          Passed
+272 connecting to 5                          272 connecting to 5                            Passed
+220 connecting to 392                        220 connecting to 392                          Passed
+437 connecting to 134                        437 connecting to 134                          Passed
+270 connecting to 371                        270 connecting to 371                          Passed
+83 connecting to 559                         83 connecting to 559                           Passed
+500 connecting to 534                        500 connecting to 534                          Passed
+55 connecting to 345                         55 connecting to 345                           Passed
+378 connecting to 553                        378 connecting to 553                          Passed
+493 connecting to 67                         493 connecting to 67                           Passed
+135 connecting to 278                        135 connecting to 278                          Passed
+308 connecting to 563                        308 connecting to 563                          Passed
+527 connecting to 557                        527 connecting to 557                          Passed
+141 connecting to 14                         141 connecting to 14                           Passed
+19 connecting to 143                         19 connecting to 143                           Passed
+585 connecting to 529                        585 connecting to 529                          Passed
+391 connecting to 88                         391 connecting to 88                           Passed
+291 connecting to 245                        291 connecting to 245                          Passed
+92 connecting to 306                         92 connecting to 306                           Passed
+235 connecting to 159                        235 connecting to 159                          Passed
+505 connecting to 209                        505 connecting to 209                          Passed
+536 connecting to 93                         536 connecting to 93                           Passed
+274 connecting to 332                        274 connecting to 332                          Passed
+354 connecting to 401                        354 connecting to 401                          Passed
+188 connecting to 50                         188 connecting to 50                           Passed
+278 connecting to 475                        278 connecting to 475                          Passed
+129 connecting to 482                        129 connecting to 482                          Passed
+57 connecting to 276                         57 connecting to 276                           Passed
+19 connecting to 362                         19 connecting to 362                           Passed
+84 connecting to 228                         84 connecting to 228                           Passed
+388 connecting to 177                        388 connecting to 177                          Passed
+408 connecting to 569                        408 connecting to 569                          Passed
+456 connecting to 28                         456 connecting to 28                           Passed
+176 connecting to 576                        176 connecting to 576                          Passed
+465 connecting to 211                        465 connecting to 211                          Passed
+556 connecting to 327                        556 connecting to 327                          Passed
+107 connecting to 477                        107 connecting to 477                          Passed
+219 connecting to 167                        219 connecting to 167                          Passed
+8 connecting to 572                          8 connecting to 572                            Passed
+500 connecting to 117                        500 connecting to 117                          Passed
+498 connecting to 20                         498 connecting to 20                           Passed
+239 connecting to 329                        239 connecting to 329                          Passed
+331 connecting to 517                        331 connecting to 517                          Passed
+413 connecting to 414                        413 connecting to 414                          Passed
+427 connecting to 26                         427 connecting to 26                           Passed
+380 connecting to 215                        380 connecting to 215                          Passed
+268 connecting to 257                        268 connecting to 257                          Passed
+147 connecting to 183                        147 connecting to 183                          Passed
+272 connecting to 70                         272 connecting to 70                           Passed
+533 connecting to 538                        533 connecting to 538                          Passed
+377 connecting to 42                         377 connecting to 42                           Passed
+412 connecting to 135                        412 connecting to 135                          Passed
+607 connecting to 408                        607 connecting to 408                          Passed
+567 connecting to 448                        567 connecting to 448                          Passed
+321 connecting to 51                         321 connecting to 51                           Passed
+173 connecting to 239                        173 connecting to 239                          Passed
+38 connecting to 396                         38 connecting to 396                           Passed
+140 connecting to 343                        140 connecting to 343                          Passed
+15 connecting to 488                         15 connecting to 488                           Passed
+571 connecting to 154                        571 connecting to 154                          Passed
+586 connecting to 171                        586 connecting to 171                          Passed
+277 connecting to 16                         277 connecting to 16                           Passed
+417 connecting to 582                        417 connecting to 582                          Passed
+168 connecting to 59                         168 connecting to 59                           Passed
+349 connecting to 350                        349 connecting to 350                          Passed
+143 connecting to 370                        143 connecting to 370                          Passed
+309 connecting to 127                        309 connecting to 127                          Passed
+137 connecting to 71                         137 connecting to 71                           Passed
+75 connecting to 163                         75 connecting to 163                           Passed
+473 connecting to 304                        473 connecting to 304                          Passed
+245 connecting to 412                        245 connecting to 412                          Passed
+619 connecting to 445                        619 connecting to 445                          Passed
+12 connecting to 448                         12 connecting to 448                           Passed
+400 connecting to 39                         400 connecting to 39                           Passed
+378 connecting to 138                        378 connecting to 138                          Passed
+578 connecting to 96                         578 connecting to 96                           Passed
+413 connecting to 316                        413 connecting to 316                          Passed
+340 connecting to 168                        340 connecting to 168                          Passed
+308 connecting to 507                        308 connecting to 507                          Passed
+220 connecting to 443                        220 connecting to 443                          Passed
+259 connecting to 228                        259 connecting to 228                          Passed
+235 connecting to 550                        235 connecting to 550                          Passed
+82 connecting to 241                         82 connecting to 241                           Passed
+528 connecting to 291                        528 connecting to 291                          Passed
+72 connecting to 63                          72 connecting to 63                            Passed
+599 connecting to 539                        599 connecting to 539                          Passed
+300 connecting to 39                         300 connecting to 39                           Passed
+423 connecting to 356                        423 connecting to 356                          Passed
+486 connecting to 522                        486 connecting to 522                          Passed
+482 connecting to 371                        482 connecting to 371                          Passed
+79 connecting to 402                         79 connecting to 402                           Passed
+234 connecting to 103                        234 connecting to 103                          Passed
+442 connecting to 171                        442 connecting to 171                          Passed
+99 already connected to 120                  99 already connected to 120                    Passed
+373 connecting to 228                        373 connecting to 228                          Passed
+385 connecting to 506                        385 connecting to 506                          Passed
+431 connecting to 370                        431 connecting to 370                          Passed
+414 connecting to 251                        414 connecting to 251                          Passed
+107 connecting to 80                         107 connecting to 80                           Passed
+135 connecting to 78                         135 connecting to 78                           Passed
+400 connecting to 238                        400 connecting to 238                          Passed
+150 connecting to 190                        150 connecting to 190                          Passed
+245 connecting to 576                        245 connecting to 576                          Passed
+537 connecting to 571                        537 connecting to 571                          Passed
+420 connecting to 494                        420 connecting to 494                          Passed
+102 connecting to 8                          102 connecting to 8                            Passed
+103 connecting to 308                        103 connecting to 308                          Passed
+201 connecting to 512                        201 connecting to 512                          Passed
+371 connecting to 256                        371 connecting to 256                          Passed
+246 connecting to 293                        246 connecting to 293                          Passed
+213 connecting to 205                        213 connecting to 205                          Passed
+448 connecting to 192                        448 connecting to 192                          Passed
+58 connecting to 457                         58 connecting to 457                           Passed
+390 connecting to 330                        390 connecting to 330                          Passed
+42 connecting to 544                         42 connecting to 544                           Passed
+94 connecting to 179                         94 connecting to 179                           Passed
+433 connecting to 200                        433 connecting to 200                          Passed
+506 connecting to 73                         506 connecting to 73                           Passed
+470 connecting to 356                        470 connecting to 356                          Passed
+356 connecting to 202                        356 connecting to 202                          Passed
+508 connecting to 593                        508 connecting to 593                          Passed
+117 connecting to 299                        117 connecting to 299                          Passed
+313 connecting to 102                        313 connecting to 102                          Passed
+6 connecting to 254                          6 connecting to 254                            Passed
+359 connecting to 566                        359 connecting to 566                          Passed
+133 connecting to 24                         133 connecting to 24                           Passed
+260 connecting to 210                        260 connecting to 210                          Passed
+513 connecting to 602                        513 connecting to 602                          Passed
+524 connecting to 452                        524 connecting to 452                          Passed
+219 connecting to 96                         219 connecting to 96                           Passed
+613 connecting to 504                        613 connecting to 504                          Passed
+552 connecting to 625                        552 connecting to 625                          Passed
+300 connecting to 20                         300 connecting to 20                           Passed
+386 connecting to 206                        386 connecting to 206                          Passed
+154 connecting to 508                        154 connecting to 508                          Passed
+120 connecting to 471                        120 connecting to 471                          Passed
+565 connecting to 24                         565 connecting to 24                           Passed
+62 connecting to 282                         62 connecting to 282                           Passed
+592 connecting to 526                        592 connecting to 526                          Passed
+13 connecting to 422                         13 connecting to 422                           Passed
+262 connecting to 144                        262 connecting to 144                          Passed
+560 connecting to 360                        560 connecting to 360                          Passed
+279 connecting to 561                        279 connecting to 561                          Passed
+504 connecting to 40                         504 connecting to 40                           Passed
+504 connecting to 564                        504 connecting to 564                          Passed
+200 connecting to 357                        200 connecting to 357                          Passed
+494 connecting to 100                        494 connecting to 100                          Passed
+29 connecting to 139                         29 connecting to 139                           Passed
+443 connecting to 175                        443 connecting to 175                          Passed
+151 connecting to 73                         151 connecting to 73                           Passed
+110 connecting to 386                        110 connecting to 386                          Passed
+213 connecting to 316                        213 connecting to 316                          Passed
+355 already connected to 42                  355 already connected to 42                    Passed
+143 connecting to 421                        143 connecting to 421                          Passed
+492 connecting to 590                        492 connecting to 590                          Passed
+499 connecting to 533                        499 connecting to 533                          Passed
+473 connecting to 246                        473 connecting to 246                          Passed
+522 connecting to 141                        522 connecting to 141                          Passed
+110 connecting to 44                         110 connecting to 44                           Passed
+442 connecting to 90                         442 connecting to 90                           Passed
+470 connecting to 208                        470 connecting to 208                          Passed
+111 connecting to 289                        111 connecting to 289                          Passed
+528 connecting to 585                        528 connecting to 585                          Passed
+556 connecting to 613                        556 connecting to 613                          Passed
+388 connecting to 315                        388 connecting to 315                          Passed
+524 connecting to 269                        524 connecting to 269                          Passed
+583 connecting to 61                         583 connecting to 61                           Passed
+166 connecting to 199                        166 connecting to 199                          Passed
+56 connecting to 576                         56 connecting to 576                           Passed
+160 connecting to 384                        160 connecting to 384                          Passed
+623 connecting to 394                        623 connecting to 394                          Passed
+336 connecting to 115                        336 connecting to 115                          Passed
+274 connecting to 461                        274 connecting to 461                          Passed
+233 connecting to 343                        233 connecting to 343                          Passed
+621 connecting to 583                        621 connecting to 583                          Passed
+319 connecting to 108                        319 connecting to 108                          Passed
+615 connecting to 11                         615 connecting to 11                           Passed
+534 connecting to 594                        534 connecting to 594                          Passed
+422 connecting to 7                          422 connecting to 7                            Passed
+288 connecting to 364                        288 connecting to 364                          Passed
+52 connecting to 61                          52 connecting to 61                            Passed
+357 connecting to 175                        357 connecting to 175                          Passed
+569 connecting to 233                        569 connecting to 233                          Passed
+121 connecting to 237                        121 connecting to 237                          Passed
+506 connecting to 176                        506 connecting to 176                          Passed
+163 already connected to 132                 163 already connected to 132                   Passed
+169 connecting to 324                        169 connecting to 324                          Passed
+55 connecting to 402                         55 connecting to 402                           Passed
+92 connecting to 54                          92 connecting to 54                            Passed
+153 connecting to 316                        153 connecting to 316                          Passed
+20 already connected to 352                  20 already connected to 352                    Passed
+431 connecting to 335                        431 connecting to 335                          Passed
+207 connecting to 284                        207 connecting to 284                          Passed
+124 connecting to 526                        124 connecting to 526                          Passed
+118 connecting to 16                         118 connecting to 16                           Passed
+115 already connected to 483                 115 already connected to 483                   Passed
+179 connecting to 620                        179 connecting to 620                          Passed
+433 connecting to 577                        433 connecting to 577                          Passed
+565 connecting to 354                        565 connecting to 354                          Passed
+69 already connected to 324                  69 already connected to 324                    Passed
+229 connecting to 458                        229 connecting to 458                          Passed
+406 connecting to 247                        406 connecting to 247                          Passed
+252 connecting to 135                        252 connecting to 135                          Passed
+21 connecting to 320                         21 connecting to 320                           Passed
+529 connecting to 546                        529 connecting to 546                          Passed
+606 connecting to 175                        606 connecting to 175                          Passed
+583 already connected to 6                   583 already connected to 6                     Passed
+559 connecting to 224                        559 connecting to 224                          Passed
+338 already connected to 604                 338 already connected to 604                   Passed
+295 connecting to 172                        295 connecting to 172                          Passed
+211 connecting to 151                        211 connecting to 151                          Passed
+275 connecting to 603                        275 connecting to 603                          Passed
+410 connecting to 514                        410 connecting to 514                          Passed
+263 connecting to 498                        263 connecting to 498                          Passed
+491 connecting to 616                        491 connecting to 616                          Passed
+301 already connected to 546                 301 already connected to 546                   Passed
+273 connecting to 413                        273 connecting to 413                          Passed
+263 already connected to 523                 263 already connected to 523                   Passed
+45 connecting to 125                         45 connecting to 125                           Passed
+56 connecting to 215                         56 connecting to 215                           Passed
+606 connecting to 66                         606 connecting to 66                           Passed
+161 connecting to 189                        161 connecting to 189                          Passed
+279 connecting to 422                        279 connecting to 422                          Passed
+376 already connected to 273                 376 already connected to 273                   Passed
+250 connecting to 144                        250 connecting to 144                          Passed
+81 already connected to 608                  81 already connected to 608                    Passed
+203 connecting to 625                        203 connecting to 625                          Passed
+189 connecting to 136                        189 connecting to 136                          Passed
+413 connecting to 70                         413 connecting to 70                           Passed
+195 connecting to 201                        195 connecting to 201                          Passed
+461 connecting to 213                        461 connecting to 213                          Passed
+30 connecting to 460                         30 connecting to 460                           Passed
+462 connecting to 308                        462 connecting to 308                          Passed
+291 connecting to 418                        291 connecting to 418                          Passed
+209 connecting to 390                        209 connecting to 390                          Passed
+608 already connected to 343                 608 already connected to 343                   Passed
+370 already connected to 153                 370 already connected to 153                   Passed
+323 connecting to 382                        323 connecting to 382                          Passed
+75 connecting to 87                          75 connecting to 87                            Passed
+52 connecting to 77                          52 connecting to 77                            Passed
+67 already connected to 275                  67 already connected to 275                    Passed
+385 connecting to 575                        385 connecting to 575                          Passed
+438 connecting to 424                        438 connecting to 424                          Passed
+551 already connected to 203                 551 already connected to 203                   Passed
+447 connecting to 226                        447 connecting to 226                          Passed
+108 connecting to 101                        108 connecting to 101                          Passed
+2 connecting to 4                            2 connecting to 4                              Passed
+287 connecting to 177                        287 connecting to 177                          Passed
+400 already connected to 239                 400 already connected to 239                   Passed
+421 already connected to 99                  421 already connected to 99                    Passed
+275 already connected to 98                  275 already connected to 98                    Passed
+543 connecting to 555                        543 connecting to 555                          Passed
+34 connecting to 361                         34 connecting to 361                           Passed
+282 connecting to 421                        282 connecting to 421                          Passed
+342 connecting to 45                         342 connecting to 45                           Passed
+588 connecting to 454                        588 connecting to 454                          Passed
+307 connecting to 250                        307 connecting to 250                          Passed
+138 connecting to 235                        138 connecting to 235                          Passed
+134 already connected to 307                 134 already connected to 307                   Passed
+551 already connected to 185                 551 already connected to 185                   Passed
+61 already connected to 296                  61 already connected to 296                    Passed
+530 already connected to 14                  530 already connected to 14                    Passed
+472 connecting to 581                        472 connecting to 581                          Passed
+443 already connected to 409                 443 already connected to 409                   Passed
+508 connecting to 180                        508 connecting to 180                          Passed
+223 connecting to 346                        223 connecting to 346                          Passed
+284 connecting to 232                        284 connecting to 232                          Passed
+211 already connected to 576                 211 already connected to 576                   Passed
+12 already connected to 552                  12 already connected to 552                    Passed
+541 connecting to 146                        541 connecting to 146                          Passed
+415 connecting to 352                        415 connecting to 352                          Passed
+260 already connected to 68                  260 already connected to 68                    Passed
+554 connecting to 611                        554 connecting to 611                          Passed
+8 connecting to 96                           8 connecting to 96                             Passed
+572 connecting to 444                        572 connecting to 444                          Passed
+392 already connected to 75                  392 already connected to 75                    Passed
+231 connecting to 526                        231 connecting to 526                          Passed
+452 connecting to 474                        452 connecting to 474                          Passed
+612 already connected to 417                 612 already connected to 417                   Passed
+533 connecting to 51                         533 connecting to 51                           Passed
+147 connecting to 566                        147 connecting to 566                          Passed
+138 already connected to 272                 138 already connected to 272                   Passed
+588 connecting to 373                        588 connecting to 373                          Passed
+10 connecting to 320                         10 connecting to 320                           Passed
+42 connecting to 207                         42 connecting to 207                           Passed
+248 connecting to 489                        248 connecting to 489                          Passed
+209 already connected to 82                  209 already connected to 82                    Passed
+216 connecting to 403                        216 connecting to 403                          Passed
+486 already connected to 116                 486 already connected to 116                   Passed
+76 already connected to 586                  76 already connected to 586                    Passed
+430 connecting to 201                        430 connecting to 201                          Passed
+125 already connected to 89                  125 already connected to 89                    Passed
+442 connecting to 165                        442 connecting to 165                          Passed
+14 already connected to 258                  14 already connected to 258                    Passed
+573 connecting to 506                        573 connecting to 506                          Passed
+608 already connected to 59                  608 already connected to 59                    Passed
+550 connecting to 473                        550 connecting to 473                          Passed
+123 connecting to 111                        123 connecting to 111                          Passed
+542 connecting to 16                         542 connecting to 16                           Passed
+331 connecting to 389                        331 connecting to 389                          Passed
+167 already connected to 575                 167 already connected to 575                   Passed
+126 connecting to 554                        126 connecting to 554                          Passed
+229 connecting to 115                        229 connecting to 115                          Passed
+146 already connected to 181                 146 already connected to 181                   Passed
+44 already connected to 272                  44 already connected to 272                    Passed
+456 already connected to 418                 456 already connected to 418                   Passed
+288 already connected to 39                  288 already connected to 39                    Passed
+162 connecting to 429                        162 connecting to 429                          Passed
+286 connecting to 359                        286 connecting to 359                          Passed
+594 already connected to 263                 594 already connected to 263                   Passed
+35 already connected to 161                  35 already connected to 161                    Passed
+458 already connected to 26                  458 already connected to 26                    Passed
+350 connecting to 306                        350 connecting to 306                          Passed
+355 already connected to 78                  355 already connected to 78                    Passed
+609 connecting to 177                        609 connecting to 177                          Passed
+414 connecting to 358                        414 connecting to 358                          Passed
+102 connecting to 294                        102 connecting to 294                          Passed
+384 already connected to 564                 384 already connected to 564                   Passed
+479 connecting to 324                        479 connecting to 324                          Passed
+88 already connected to 141                  88 already connected to 141                    Passed
+335 connecting to 107                        335 connecting to 107                          Passed
+188 already connected to 39                  188 already connected to 39                    Passed
+548 connecting to 21                         548 connecting to 21                           Passed
+161 already connected to 129                 161 already connected to 129                   Passed
+48 connecting to 510                         48 connecting to 510                           Passed
+200 already connected to 581                 200 already connected to 581                   Passed
+489 already connected to 484                 489 already connected to 484                   Passed
+605 connecting to 116                        605 connecting to 116                          Passed
+408 already connected to 299                 408 already connected to 299                   Passed
+170 connecting to 69                         170 connecting to 69                           Passed
+38 connecting to 145                         38 connecting to 145                           Passed
+226 already connected to 306                 226 already connected to 306                   Passed
+484 connecting to 469                        484 connecting to 469                          Passed
+253 connecting to 510                        253 connecting to 510                          Passed
+528 already connected to 573                 528 already connected to 573                   Passed
+345 already connected to 398                 345 already connected to 398                   Passed
+164 connecting to 371                        164 connecting to 371                          Passed
+141 already connected to 124                 141 already connected to 124                   Passed
+202 connecting to 598                        202 connecting to 598                          Passed
+467 already connected to 167                 467 already connected to 167                   Passed
+263 connecting to 463                        263 connecting to 463                          Passed
+54 already connected to 477                  54 already connected to 477                    Passed
+526 already connected to 134                 526 already connected to 134                   Passed
+578 already connected to 581                 578 already connected to 581                   Passed
+381 connecting to 384                        381 connecting to 384                          Passed
+1 connecting to 111                          1 connecting to 111                            Passed
+549 connecting to 288                        549 connecting to 288                          Passed
+358 already connected to 14                  358 already connected to 14                    Passed
+64 already connected to 417                  64 already connected to 417                    Passed
+456 already connected to 224                 456 already connected to 224                   Passed
+115 connecting to 198                        115 connecting to 198                          Passed
+261 already connected to 213                 261 already connected to 213                   Passed
+545 already connected to 386                 545 already connected to 386                   Passed
+181 connecting to 331                        181 connecting to 331                          Passed
+556 connecting to 326                        556 connecting to 326                          Passed
+444 already connected to 597                 444 already connected to 597                   Passed
+591 connecting to 15                         591 connecting to 15                           Passed
+425 connecting to 191                        425 connecting to 191                          Passed
+102 already connected to 231                 102 already connected to 231                   Passed
+204 connecting to 100                        204 connecting to 100                          Passed
+371 connecting to 23                         371 connecting to 23                           Passed
+134 already connected to 464                 134 already connected to 464                   Passed
+511 connecting to 563                        511 connecting to 563                          Passed
+395 connecting to 241                        395 connecting to 241                          Passed
+534 already connected to 400                 534 already connected to 400                   Passed
+515 connecting to 292                        515 connecting to 292                          Passed
+263 connecting to 53                         263 connecting to 53                           Passed
+256 already connected to 225                 256 already connected to 225                   Passed
+296 connecting to 60                         296 connecting to 60                           Passed
+66 already connected to 168                  66 already connected to 168                    Passed
+110 already connected to 574                 110 already connected to 574                   Passed
+215 already connected to 8                   215 already connected to 8                     Passed
+193 connecting to 305                        193 connecting to 305                          Passed
+76 already connected to 431                  76 already connected to 431                    Passed
+344 connecting to 449                        344 connecting to 449                          Passed
+469 already connected to 357                 469 already connected to 357                   Passed
+410 already connected to 331                 410 already connected to 331                   Passed
+343 connecting to 32                         343 connecting to 32                           Passed
+97 connecting to 549                         97 connecting to 549                           Passed
+24 already connected to 192                  24 already connected to 192                    Passed
+36 connecting to 492                         36 connecting to 492                           Passed
+502 connecting to 587                        502 connecting to 587                          Passed
+582 already connected to 462                 582 already connected to 462                   Passed
+542 already connected to 539                 542 already connected to 539                   Passed

@@ -1,0 +1,62 @@
+Weight Quick Union UF                        Dynamic UF                                 Test Check
+---------------------------------------------------------------------------------------------------
+50 connecting to 16                          50 connecting to 16                            Passed
+25 connecting to 50                          25 connecting to 50                            Passed
+37 connecting to 43                          37 connecting to 43                            Passed
+40 connecting to 21                          40 connecting to 21                            Passed
+10 connecting to 25                          10 connecting to 25                            Passed
+19 connecting to 44                          19 connecting to 44                            Passed
+22 connecting to 55                          22 connecting to 55                            Passed
+8 connecting to 41                           8 connecting to 41                             Passed
+46 connecting to 36                          46 connecting to 36                            Passed
+23 connecting to 57                          23 connecting to 57                            Passed
+60 connecting to 19                          60 connecting to 19                            Passed
+44 connecting to 26                          44 connecting to 26                            Passed
+40 connecting to 53                          40 connecting to 53                            Passed
+20 connecting to 14                          20 connecting to 14                            Passed
+3 connecting to 18                           3 connecting to 18                             Passed
+26 connecting to 66                          26 connecting to 66                            Passed
+43 connecting to 60                          43 connecting to 60                            Passed
+55 connecting to 21                          55 connecting to 21                            Passed
+60 connecting to 50                          60 connecting to 50                            Passed
+35 connecting to 41                          35 connecting to 41                            Passed
+20 connecting to 56                          20 connecting to 56                            Passed
+17 connecting to 41                          17 connecting to 41                            Passed
+67 connecting to 4                           67 connecting to 4                             Passed
+24 connecting to 61                          24 connecting to 61                            Passed
+63 connecting to 8                           63 connecting to 8                             Passed
+37 connecting to 31                          37 connecting to 31                            Passed
+14 connecting to 61                          14 connecting to 61                            Passed
+22 connecting to 68                          22 connecting to 68                            Passed
+39 connecting to 60                          39 connecting to 60                            Passed
+63 connecting to 4                           63 connecting to 4                             Passed
+25 connecting to 55                          25 connecting to 55                            Passed
+12 connecting to 48                          12 connecting to 48                            Passed
+60 already connected to 31                   60 already connected to 31                     Passed
+69 connecting to 50                          69 connecting to 50                            Passed
+38 connecting to 69                          38 connecting to 69                            Passed
+32 connecting to 6                           32 connecting to 6                             Passed
+33 connecting to 21                          33 connecting to 21                            Passed
+32 connecting to 75                          32 connecting to 75                            Passed
+72 connecting to 28                          72 connecting to 28                            Passed
+23 connecting to 28                          23 connecting to 28                            Passed
+39 already connected to 44                   39 already connected to 44                     Passed
+0 connecting to 42                           0 connecting to 42                             Passed
+12 connecting to 41                          12 connecting to 41                            Passed
+14 connecting to 22                          14 connecting to 22                            Passed
+67 connecting to 22                          67 connecting to 22                            Passed
+55 already connected to 37                   55 already connected to 37                     Passed
+64 connecting to 29                          64 connecting to 29                            Passed
+10 connecting to 36                          10 connecting to 36                            Passed
+72 connecting to 6                           72 connecting to 6                             Passed
+58 connecting to 55                          58 connecting to 55                            Passed
+62 connecting to 67                          62 connecting to 67                            Passed
+55 connecting to 74                          55 connecting to 74                            Passed
+71 connecting to 4                           71 connecting to 4                             Passed
+43 already connected to 62                   43 already connected to 62                     Passed
+49 connecting to 51                          49 connecting to 51                            Passed
+16 already connected to 68                   16 already connected to 68                     Passed
+15 connecting to 21                          15 connecting to 21                            Passed
+75 connecting to 16                          75 connecting to 16                            Passed
+0 connecting to 33                           0 connecting to 33                             Passed
+72 already connected to 38                   72 already connected to 38                     Passed

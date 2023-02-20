@@ -136,37 +136,45 @@ public class DynamicUF {
 
 
     public static void main(String[] args) throws Exception {
-        // USED TO GET DATA TO COMPARE TO DYNAMICUF OUTPUT
-        /*
-        WeightedQuickUnionUF standard = new WeightedQuickUnionUF(225);
-        while (StdIn.hasNextLine()) {
+        StdOut.printf("%-45s", "Weight Quick Union UF");
+        StdOut.printf("%-38s", "Dynamic UF");
+        StdOut.printf("%15s", "Test Check");
+        StdOut.println("\n---------------------------------------------------------------------------------------------------");
+
+        WeightedQuickUnionUF base = new WeightedQuickUnionUF(1024);
+        DynamicUF testing = new DynamicUF();
+
+        while (!StdIn.isEmpty()) {
             int p = StdIn.readInt();
             int q = StdIn.readInt();
-            if (standard.find(p) == standard.find(q)) {
-                StdOut.println(p + " already connected to " + q);
+            String forBase;
+            String forTest;
+            if (base.find(p) == base.find(q)) {
+                forBase = p + " already connected to " + q;
             }
             else {
-                standard.union(p, q);
-                StdOut.println(p + " connected to " + q);
+                base.union(p, q);
+                forBase = p + " connecting to " + q;
             }
-        }
-        StdOut.println(standard.count() + " number of components");
-        */
 
-        
-        DynamicUF testing = new DynamicUF();
-        while (StdIn.hasNextLine()) {
-            int p = StdIn.readInt();
-            int q = StdIn.readInt();
             if (testing.connected(p, q)) {
-                StdOut.println(p + " already connected to " + q);
+                forTest = p + " already connected to " + q;
             }
             else {
                 testing.union(p, q);
-                StdOut.println(p + " connected to " + q);
+                forTest = p + " connecting to " + q;
             }
+
+            StdOut.printf("%-45s", forBase);
+            StdOut.printf("%-38s", forTest);
+            if (forBase.equals(forTest)) {
+                StdOut.printf("%15s", "Passed");
+            }
+            else {
+                StdOut.printf("%15s", "Failed");
+            }
+
+            StdOut.println();
         }
-        StdOut.println(testing.count() + " number of components");
-        
     }
 }

@@ -1,0 +1,32 @@
+Weight Quick Union UF                        Dynamic UF                                 Test Check
+---------------------------------------------------------------------------------------------------
+12 connecting to 2                           12 connecting to 2                             Passed
+7 connecting to 15                           7 connecting to 15                             Passed
+3 connecting to 8                            3 connecting to 8                              Passed
+29 connecting to 2                           29 connecting to 2                             Passed
+15 connecting to 22                          15 connecting to 22                            Passed
+8 connecting to 7                            8 connecting to 7                              Passed
+1 connecting to 8                            1 connecting to 8                              Passed
+2 connecting to 1                            2 connecting to 1                              Passed
+19 connecting to 21                          19 connecting to 21                            Passed
+6 connecting to 15                           6 connecting to 15                             Passed
+6 connecting to 4                            6 connecting to 4                              Passed
+12 connecting to 28                          12 connecting to 28                            Passed
+18 connecting to 16                          18 connecting to 16                            Passed
+24 connecting to 27                          24 connecting to 27                            Passed
+16 connecting to 23                          16 connecting to 23                            Passed
+28 connecting to 20                          28 connecting to 20                            Passed
+2 connecting to 5                            2 connecting to 5                              Passed
+5 connecting to 26                           5 connecting to 26                             Passed
+4 already connected to 1                     4 already connected to 1                       Passed
+0 connecting to 10                           0 connecting to 10                             Passed
+14 connecting to 29                          14 connecting to 29                            Passed
+3 already connected to 2                     3 already connected to 2                       Passed
+16 connecting to 28                          16 connecting to 28                            Passed
+5 already connected to 29                    5 already connected to 29                      Passed
+20 already connected to 4                    20 already connected to 4                      Passed
+23 connecting to 27                          23 connecting to 27                            Passed
+1 already connected to 15                    1 already connected to 15                      Passed
+4 connecting to 13                           4 connecting to 13                             Passed
+15 already connected to 20                   15 already connected to 20                     Passed
+16 already connected to 28                   16 already connected to 28                     Passed
