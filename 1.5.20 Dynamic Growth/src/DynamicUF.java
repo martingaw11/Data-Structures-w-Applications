@@ -140,7 +140,12 @@ public class DynamicUF {
         return count;
     }
 
-
+    /*
+     * Main client will take in the two integers for each line in the data file,
+     * if the two sites are connected it will print that they are,
+     * if not, the two sites will be connected and it will print that they were,
+     * and finally it will print the number of components after all of the connections.
+     */
     public static void main(String[] args) throws Exception {
         //THIS CODE WAS USED TO GET THE RESULTS IN .bin/results FOR TESTING DynamicUF
         /*
