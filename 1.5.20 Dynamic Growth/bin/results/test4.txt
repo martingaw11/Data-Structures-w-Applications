@@ -575,3 +575,4 @@ Weight Quick Union UF                        Dynamic UF                         
 502 connecting to 587                        502 connecting to 587                          Passed
 582 already connected to 462                 582 already connected to 462                   Passed
 542 already connected to 539                 542 already connected to 539                   Passed
+131 components                               131 components                                 Passed

@@ -920,3 +920,4 @@ Weight Quick Union UF                        Dynamic UF                         
 803 connecting to 257                        803 connecting to 257                          Passed
 88 already connected to 537                  88 already connected to 537                    Passed
 872 already connected to 94                  872 already connected to 94                    Passed
+219 components                               219 components                                 Passed

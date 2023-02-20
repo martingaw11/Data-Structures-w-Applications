@@ -200,3 +200,4 @@ Weight Quick Union UF                        Dynamic UF                         
 14 already connected to 39                   14 already connected to 39                     Passed
 106 already connected to 151                 106 already connected to 151                   Passed
 194 already connected to 173                 194 already connected to 173                   Passed
+49 components                                49 components                                  Passed

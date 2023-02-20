@@ -18,7 +18,12 @@ import edu.princeton.cs.algs4.StdOut;
  */
 
 public class maxVal {
-    
+
+    /*
+     * Main method just goes through each data file and finds the max value,
+     * this is used to create the WeightedQuickUnionUF object within DynamicUF
+     * for the in depth testing to see if the results match
+     */
     public static void main(String args[]) {
         int maxVal = 0;
 

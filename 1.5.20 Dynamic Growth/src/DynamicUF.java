@@ -5,11 +5,17 @@
  * that removes the restriction of needing a concrete number
  * of objects.
  * Do this by adding a new method : newSite() : returns int identifier
+ * 
+ * 2/20/2023
+ * Revised the main method for testing if DynamicUF works or not,
+ * results are located within .bin/results
+ * This code will be commented out so that the main client can
+ * be used to process just normal data not for testing
  */
 
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
-// Going to be used to test validity of DynamicUF
+// Used to test output of DynamicUF
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 import java.util.ArrayList;
@@ -136,6 +142,8 @@ public class DynamicUF {
 
 
     public static void main(String[] args) throws Exception {
+        //THIS CODE WAS USED TO GET THE RESULTS IN .bin/results FOR TESTING DynamicUF
+        /*
         StdOut.printf("%-45s", "Weight Quick Union UF");
         StdOut.printf("%-38s", "Dynamic UF");
         StdOut.printf("%15s", "Test Check");
@@ -164,7 +172,6 @@ public class DynamicUF {
                 testing.union(p, q);
                 forTest = p + " connecting to " + q;
             }
-
             StdOut.printf("%-45s", forBase);
             StdOut.printf("%-38s", forTest);
             if (forBase.equals(forTest)) {
@@ -173,8 +180,43 @@ public class DynamicUF {
             else {
                 StdOut.printf("%15s", "Failed");
             }
-
             StdOut.println();
         }
+        int baseCount = base.count();
+        int testCount = testing.count();
+
+        StdOut.printf("%-45s", baseCount + " components");
+        StdOut.printf("%-38s", testCount + " components");
+
+        if (baseCount == testCount) {
+            StdOut.printf("%15s", "Passed");
+        }
+        else {
+            StdOut.printf("%15s", "Failed");
+        }
+        */
+
+        //THIS IS THE MAIN CLIENT CODE FOR DynamicUF
+        
+        DynamicUF network = new DynamicUF();
+
+        // running until the end of the data file
+        while (!StdIn.isEmpty()) {
+            int p = StdIn.readInt();
+            int q = StdIn.readInt();
+
+            // checking if p and q are already connected
+            if (network.connected(p, q)) {
+                StdOut.println(p + " already connected to " + q);
+            }
+            // if not, then we will connect p to q
+            else {
+                network.union(p, q);
+                StdOut.println(p + " connecting to " + q);
+            }
+        }
+        // printing out the number of components in our network
+        StdOut.println(network.count() + " components");
+        
     }
 }
