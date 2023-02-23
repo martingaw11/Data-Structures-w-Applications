@@ -1,18 +1,11 @@
-## Getting Started
+# Observing Elapsed Time
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This was an assignment to quantify the differences between algorithms that vary in efficiency
 
-## Folder Structure
+## PrimeNumbers
 
-The workspace contains two folders by default, where:
+The base method for comparison is PrimeNumbers(int). This method is a very slow and inefficient way to find the number of prime numbers between 0 and n. 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## EfficientPrimeNumbers
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The more efficient method that is used to compare against PrimeNumbers(int) is EfficientPrimeNumbers(int). When comparing results, it is obvious this is much faster. This method specifically uses the Sieve of Eratosthenes algorithm which is why it is so much faster.
