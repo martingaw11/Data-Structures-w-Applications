@@ -1,18 +1,11 @@
-## Getting Started
+# Dynamic Union Find
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+After learning about the different variations of Union Find our assignment was to implement a Union Find that is dynamic in its growth. Meaning that it does not take a fixed amount of sites for the network, instead it will constantly add new sites when necessary.
 
-## Folder Structure
+## Weighted Union Find
 
-The workspace contains two folders by default, where:
+I specifically used the idea of Weighted Union Find for my Dynamic Union Find to make the program faster than the other union finds. Since Weighted Union Find is the back bone of my Dynamic Union Find, I used the basic implementation of Weighted Union UF from algs4 and changed the data types and added a new newSite() method.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Testing
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Within .bin/results/ is the results of my testing. Since Weight Union UF was the premise behind my Dynamic UF, I decided to use their implementation from algs4 to produce concrete data that can be used to compare my results from using Dynamic UF.
