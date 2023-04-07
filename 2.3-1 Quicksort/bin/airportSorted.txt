@@ -1,1 +1,37 @@
-BDN	Talhar Airport	Badin	PK-SDBVG	Berlevag Airport	Berlevag	NO-20CIC	Chico Municipal Airport	Chico	US-CACRA	Craiova Airport	Craiova	RO-DJDEM	Dembidollo Airport	Dembidollo	ET-GAESO	Ohkay Owingeh Airport	Espanola	US-NMFLM	Filadelfia Airport	Filadelfia	PY-19GMQ	Golog Maqin Airport	Golog	CN-63GRO	Girona Airport	Girona	ES-GEHAE	Lava Falls Heliport	Supai Village	US-AZJRS	Jerusalem Airport	Jerusalem	PS-JEMKLN	Larsen Bay Airport	Larsen Bay	US-AKLUH	Ludhiana Airport	-none-	IN-PBMEJ	Port Meadville Airport	Meadville	US-PAMKB	Mekambo Airport	Mekambo	GA-6MYD	Malindi Airport	Malindi	KE-300NQN	Presidente Peron Airport	Neuquen	AR-QPEY	Penong Airport	Penong	AU-SAPIO	Capitan FAP RenÃ¡n Elias Olivera International Airport	Pisco	PE-ICARBC	Robinvale Airport	-none-	AU-VICRPX	Roundup Airport	Roundup	US-MTSDG	Sanandaj Airport	-none-	IR-16SKN	Stokmarknes Skagen Airport	Hadsel	NO-18SPB	Charlotte Amalie Harbor Seaplane Base	Charlotte Amalie St Thomas	VI-U-ASQV	Sequim Valley Airport	Sequim	US-WASRD	San Ramon Airport	San Ramon / Mamore	BO-BSTC	St Cloud Regional Airport	St Cloud	US-MNTAR	Taranto-Grottaglie (Marcello Arlotta) Airport	Grottaglie	IT-75TLU	Golfo de Morrosquillo Airport	Tolu	CO-SUCUAK	Narsarsuaq Airport	Narsarsuaq	GL-U-AVJB	Xai-Xai Airport	Xai-Xai	MZ-GWSZ	Westport Airport	-none-	NZ-WTCXAP	Serafin Enoss Bertaso Airport	Chapeco	BR-SCXBJ	Birjand Airport	Birjand	IR-29YBP	Yibin Caiba Airport	Yibin	CN-51YYZ	Lester B. Pearson International Airport	Toronto	CA-ONYZF	Yellowknife Airport	Yellowknife	CA-NT
+BDN	Talhar Airport	Badin	PK-SD
+BVG	Berlevag Airport	Berlevag	NO-20
+CIC	Chico Municipal Airport	Chico	US-CA
+CRA	Craiova Airport	Craiova	RO-DJ
+DEM	Dembidollo Airport	Dembidollo	ET-GA
+ESO	Ohkay Owingeh Airport	Espanola	US-NM
+FLM	Filadelfia Airport	Filadelfia	PY-19
+GMQ	Golog Maqin Airport	Golog	CN-63
+GRO	Girona Airport	Girona	ES-GE
+HAE	Lava Falls Heliport	Supai Village	US-AZ
+JRS	Jerusalem Airport	Jerusalem	PS-JEM
+KLN	Larsen Bay Airport	Larsen Bay	US-AK
+LUH	Ludhiana Airport	-none-	IN-PB
+MEJ	Port Meadville Airport	Meadville	US-PA
+MKB	Mekambo Airport	Mekambo	GA-6
+MYD	Malindi Airport	Malindi	KE-300
+NQN	Presidente Peron Airport	Neuquen	AR-Q
+PEY	Penong Airport	Penong	AU-SA
+PIO	Capitan FAP RenÃ¡n Elias Olivera International Airport	Pisco	PE-ICA
+RBC	Robinvale Airport	-none-	AU-VIC
+RPX	Roundup Airport	Roundup	US-MT
+SDG	Sanandaj Airport	-none-	IR-16
+SKN	Stokmarknes Skagen Airport	Hadsel	NO-18
+SPB	Charlotte Amalie Harbor Seaplane Base	Charlotte Amalie St Thomas	VI-U-A
+SQV	Sequim Valley Airport	Sequim	US-WA
+SRD	San Ramon Airport	San Ramon / Mamore	BO-B
+STC	St Cloud Regional Airport	St Cloud	US-MN
+TAR	Taranto-Grottaglie (Marcello Arlotta) Airport	Grottaglie	IT-75
+TLU	Golfo de Morrosquillo Airport	Tolu	CO-SUC
+UAK	Narsarsuaq Airport	Narsarsuaq	GL-U-A
+VJB	Xai-Xai Airport	Xai-Xai	MZ-G
+WSZ	Westport Airport	-none-	NZ-WTC
+XAP	Serafin Enoss Bertaso Airport	Chapeco	BR-SC
+XBJ	Birjand Airport	Birjand	IR-29
+YBP	Yibin Caiba Airport	Yibin	CN-51
+YYZ	Lester B. Pearson International Airport	Toronto	CA-ON
+YZF	Yellowknife Airport	Yellowknife	CA-NT
