@@ -3,6 +3,11 @@
  * 
  * 04/07/2023
  * Initial start to project.
+ * 
+ * 04/11/2023
+ * Changing process for taking words from text, will break up
+ * words like 'three-dimensional' into 'three' 'dimensional' instead
+ * of adding it as 'threedimensional'
  */
 
 import edu.princeton.cs.algs4.StdIn;
@@ -21,38 +26,35 @@ import edu.princeton.cs.algs4.ST;
  */
 public class OccurenceCounter {
     public static void main(String[] args) throws Exception {
-        // THIS WAS A TEST TO SEE IF REPLACEALL WORKS FOR MY CASE
-        /* 
-        String[] input = StdIn.readAllStrings();
-
-        for (String word : input) {
-            String better = word.replaceAll("[^a-zA-Z]", "");
-            StdOut.println(better);
-        }
-        */
         // this is the creation of the symbol table that will be used
         ST<String, Integer> st = new ST<String, Integer>();
-
-        // going to iterate through every string in the text, originally separated by " "
+        
+        // running loop until input is empty
         while (!StdIn.isEmpty()) {
-            // taking in the word
-            String key = StdIn.readString();
+            // reading in a string that has potential to be added to Symbol Table
+            String potential = StdIn.readString();
 
-            // refactoring the word to get rid of special characters and numbers and making lowercase
-            key = key.replaceAll("[^a-zA-Z]", "");
-            key = key.toLowerCase();
+            // we will store compound words in an array with words separated: three-dimensional becomes [three, dimensional]
+            String[] strings = potential.split("[-|_]");
 
-            // if the resulting key is just whitespace, move onto next iteration
-            if (key.isBlank()) {continue;}
+            // now loop through the array of compound words, or just one word
+            for (String word : strings) {
+                // refactoring each word to just be characters a-z, and lowercase
+                word = word.replaceAll("[^a-zA-Z]", "");
+                word = word.toLowerCase();
 
-            // check to see of the symbol table already has key
-            if (st.contains(key)) {
-                // if so, add 1 to its value for the running count of occurences
-                st.put(key, st.get(key) + 1);
-            }
-            else {
-                // if not, we will create the very first occurence in the sybmol table
-                st.put(key, 1);
+                // not adding 'word' that is just whitespace: '' ' '
+                if (word.isBlank()) {continue;}
+
+                // if word already in symbol table
+                if (st.contains(word)) {
+                    // then increment its correlated value by 1
+                    st.put(word, st.get(word) + 1);
+                }
+                else {
+                    // else we will create its first instance with a value of 1
+                    st.put(word, 1);
+                }
             }
         }
 

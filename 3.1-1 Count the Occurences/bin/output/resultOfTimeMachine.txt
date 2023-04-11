@@ -4,7 +4,7 @@ a                        78
 able                     1                        
 about                    14                       
 above                    3                        
-absentminded             1                        
+absent                   1                        
 absolutely               2                        
 abstractions             1                        
 accelerate               1                        
@@ -19,8 +19,7 @@ admired                  1
 admit                    2                        
 adroitly                 1                        
 affair                   1                        
-after                    4                        
-afterdinner              1                        
+after                    5                        
 again                    1                        
 against                  2                        
 age                      1                        
@@ -56,7 +55,7 @@ appreciate               1
 are                      16                       
 argument                 1                        
 argumentative            1                        
-armchair                 1                        
+arm                      1                        
 as                       16                       
 ask                      1                        
 asked                    2                        
@@ -102,7 +101,7 @@ bit                      1
 black                    1                        
 blown                    1                        
 body                     2                        
-brainweary               1                        
+brain                    1                        
 brass                    2                        
 breadth                  3                        
 breath                   1                        
@@ -130,7 +129,7 @@ case                     1
 caught                   2                        
 certain                  2                        
 certainly                4                        
-chair                    2                        
+chair                    3                        
 chairs                   1                        
 changed                  1                        
 cheerfully               1                        
@@ -183,8 +182,11 @@ difference               1
 different                1                        
 difficulty               1                        
 diluted                  1                        
-dimension                4                        
+dimension                7                        
+dimensional              3                        
+dimensioned              1                        
 dimensions               13                       
+dinner                   1                        
 direction                3                        
 directions               2                        
 disappear                1                        
@@ -249,6 +251,7 @@ fecundity                1
 feet                     1                        
 fell                     2                        
 fifteen                  1                        
+fiftieth                 1                        
 fifty                    2                        
 figure                   1                        
 filby                    13                       
@@ -279,9 +282,7 @@ former                   1
 forth                    3                        
 forward                  2                        
 founded                  1                        
-four                     4                        
-fourdimensional          1                        
-fourdimensioned          1                        
+four                     6                        
 fourif                   1                        
 fourth                   5                        
 framework                1                        
@@ -305,7 +306,7 @@ ghost                    2
 glasses                  1                        
 gliding                  1                        
 glittering               2                        
-go                       4                        
+go                       5                        
 going                    2                        
 golden                   1                        
 gone                     3                        
@@ -323,7 +324,7 @@ ground                   2
 h                        1                        
 had                      10                       
 hair                     1                        
-hand                     5                        
+hand                     6                        
 hands                    2                        
 happens                  1                        
 hard                     1                        
@@ -353,6 +354,7 @@ how                      5
 however                  3                        
 humbug                   1                        
 hundred                  1                        
+hundredth                1                        
 hurry                    1                        
 i                        42                       
 idea                     1                        
@@ -445,8 +447,7 @@ lilies                   1
 limits                   1                        
 line                     6                        
 lips                     2                        
-little                   5                        
-littlego                 1                        
+little                   6                        
 lives                    1                        
 long                     3                        
 look                     6                        
@@ -483,6 +484,7 @@ metallic                 1
 might                    3                        
 miles                    1                        
 mind                     2                        
+minded                   1                        
 minute                   3                        
 minutes                  1                        
 misconception            1                        
@@ -528,14 +530,12 @@ objections               1
 occurrence               1                        
 octagonal                1                        
 odd                      1                        
-of                       83                       
+of                       84                       
 off                      2                        
 oh                       1                        
 old                      1                        
 on                       13                       
-one                      12                       
-onefiftieth              1                        
-onehundredth             1                        
+one                      14                       
 ones                     2                        
 only                     9                        
 or                       13                       
@@ -702,7 +702,7 @@ since                    1
 singularly               1                        
 sir                      1                        
 six                      1                        
-sleightofhand            1                        
+sleight                  1                        
 slight                   1                        
 slippers                 1                        
 slowly                   1                        
@@ -778,14 +778,12 @@ think                    7
 this                     31                       
 though                   3                        
 thought                  5                        
-three                    8                        
+three                    11                       
 threeand                 1                        
-threedimensional         2                        
 threshold                1                        
 through                  9                        
 thursday                 2                        
-time                     55                       
-timedimension            3                        
+time                     58                       
 times                    2                        
 to                       62                       
 tobacco                  1                        
@@ -816,7 +814,7 @@ trousers                 1
 turn                     2                        
 turned                   1                        
 turning                  2                        
-twentythree              1                        
+twenty                   1                        
 twinkled                 1                        
 twinkling                1                        
 twisted                  1                        
@@ -863,6 +861,7 @@ watched                  1
 way                      4                        
 waymarking               1                        
 we                       33                       
+weary                    1                        
 weather                  1                        
 well                     4                        
 wells                    1                        
