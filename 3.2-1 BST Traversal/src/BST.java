@@ -5,8 +5,13 @@
  * Initial Start: 
  * Copying algs4 BST file into project,
  * importing relevant classes for BST to work
+ * 
  * **USING THE ALGS4 BST CLASS TO ADD THREE TRAVERSAL METHODS FOR THE TREE**
  * **INORDER    PREORDER    POSTORDER**
+ * 
+ * Adding Functions:
+ * Added the necessary functions and implemented them,
+ * tested them with small data set and checked if order was correct manually
  */
 
 import edu.princeton.cs.algs4.Queue;
@@ -518,25 +523,75 @@ public class BST<Key extends Comparable<Key>, Value> {
         return true;
     }
 
+    /**************************************************************
+     * Traversal of BST Methods 
+     * (added in for assignment, not originally in algs4 BST class)
+     **************************************************************/
+    //Initial call of the inorder function to start the print of elements in-order
+    public void inorder() {
+        inorder(this.root);
+    }
+    //This will be recursively called so that the BST is printed in-order after the
+    //initial function call of inorder()
+    private void inorder(Node root) {
+        if (root == null) {
+            return;
+        }
+        
+        inorder(root.left);
+        StdOut.println(root.key.toString() + '\t' + root.val);
+        inorder(root.right);
+    }
 
-    /**
-     * Unit tests the {@code BST} data type.
-     *
-     * @param args the command-line arguments
-     */
-    public static void main(String[] args) {
-        BST<String, Integer> st = new BST<String, Integer>();
-        for (int i = 0; !StdIn.isEmpty(); i++) {
-            String key = StdIn.readString();
-            st.put(key, i);
+    //Initial call of preorder function to start the print of elements in pre-order
+    public void preorder() {
+        preorder(this.root);
+    }
+    //This is then recursively called so that BST is printed pre-order after the
+    //intial function call of preorder()
+    private void preorder(Node root) {
+        if (root == null) {
+            return;
         }
 
-        for (String s : st.levelOrder())
-            StdOut.println(s + " " + st.get(s));
+        StdOut.println(root.key.toString() + '\t' + root.val);
+        preorder(root.left);
+        preorder(root.right);
+    }
 
-        StdOut.println();
+    //Initial call of postorder function to start the print of elements in post-order
+    public void postorder() {
+        postorder(this.root);
+    }
+    //This is then recursively called so that BST is printed post-order after the
+    //initial function call of postorder()
+    private void postorder(Node root) {
+        if (root == null) {
+            return;
+        }
 
-        for (String s : st.keys())
-            StdOut.println(s + " " + st.get(s));
+        postorder(root.left);
+        postorder(root.right);
+        StdOut.println(root.key.toString() + "\t" + root.val);
+    }
+
+
+    /*
+     * Overwrote previous test client in order to test new traversal methods
+     */
+    public static void main(String[] args) {
+        BST<Integer, String> test = new BST<Integer, String>();
+        while (!StdIn.isEmpty()) {
+            int key = StdIn.readInt();
+            String val = StdIn.readString();
+
+            test.put(key, val);
+        }
+
+        test.inorder();
+        StdOut.println("\n");
+        test.preorder();
+        StdOut.println("\n");
+        test.postorder();
     }
 }
