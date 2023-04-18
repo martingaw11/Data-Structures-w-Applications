@@ -12,6 +12,9 @@
  * Adding Functions:
  * Added the necessary functions and implemented them,
  * tested them with small data set and checked if order was correct manually
+ * 
+ * Now the class can be used to created a Binary Search Tree and
+ * to traverse one inorder, preorder, and postorder.
  */
 
 import edu.princeton.cs.algs4.Queue;
@@ -524,11 +527,15 @@ public class BST<Key extends Comparable<Key>, Value> {
     }
 
 
-    
+
     /**************************************************************
      * Traversal of BST Methods 
      * (added in for assignment, not originally in algs4 BST class)
      **************************************************************/
+    //Decided to create an empty parameter function call to each one so that
+    //the user does not have to worry about passing the root node and the
+    //BST class will automatically start from the root node.
+
     //Initial call of the inorder function to start the print of elements in-order
     public void inorder() {
         inorder(this.root);
