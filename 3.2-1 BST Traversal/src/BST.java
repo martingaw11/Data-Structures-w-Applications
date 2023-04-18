@@ -602,16 +602,19 @@ public class BST<Key extends Comparable<Key>, Value> {
 
         //first traversing the BST in-order
         //should be 'If inorder then you can read this.'
+        StdOut.println("In-Order");
         test.inorder();
         StdOut.println("\n");
 
         //second traversal is pre-order
         //should be 'you inorder If then read can this.'
+        StdOut.println("Pre-Order");
         test.preorder();
         StdOut.println("\n");
         
         //third traversal is post-order
         //should be 'If then inorder can this. read you'
+        StdOut.println("Post-Order");
         test.postorder();
     }
 }
