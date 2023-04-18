@@ -616,5 +616,21 @@ public class BST<Key extends Comparable<Key>, Value> {
         //should be 'If then inorder can this. read you'
         StdOut.println("Post-Order");
         test.postorder();
+
+        StdOut.println("\nDeleting keys: 2, 6\n");
+        test.delete(2);
+        test.delete(6);
+
+        //now traversing again to show changes
+        StdOut.println("In-Order");
+        test.inorder();
+        StdOut.println("\n");
+
+        StdOut.println("Pre-Order");
+        test.preorder();
+        StdOut.println("\n");
+        
+        StdOut.println("Post-Order");
+        test.postorder();
     }
 }
