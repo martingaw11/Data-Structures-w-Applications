@@ -4,4 +4,4 @@
 2   inorder
 1   If
 3   then
-7   this
+7   this.

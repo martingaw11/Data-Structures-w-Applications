@@ -7,7 +7,7 @@
  * importing relevant classes for BST to work
  * 
  * **USING THE ALGS4 BST CLASS TO ADD THREE TRAVERSAL METHODS FOR THE TREE**
- * **INORDER    PREORDER    POSTORDER**
+ * **       INORDER                 PREORDER            POSTORDER         **
  * 
  * Adding Functions:
  * Added the necessary functions and implemented them,
@@ -580,7 +580,10 @@ public class BST<Key extends Comparable<Key>, Value> {
      * Overwrote previous test client in order to test new traversal methods
      */
     public static void main(String[] args) {
+        //creating the BST
         BST<Integer, String> test = new BST<Integer, String>();
+
+        //inputting data into the BST
         while (!StdIn.isEmpty()) {
             int key = StdIn.readInt();
             String val = StdIn.readString();
@@ -588,10 +591,18 @@ public class BST<Key extends Comparable<Key>, Value> {
             test.put(key, val);
         }
 
+        //first traversing the BST in-order
+        //should be 'If inorder then you can read this.'
         test.inorder();
         StdOut.println("\n");
+
+        //second traversal is pre-order
+        //should be 'you inorder If then read can this.'
         test.preorder();
         StdOut.println("\n");
+        
+        //third traversal is post-order
+        //should be 'If then inorder can this. read you'
         test.postorder();
     }
 }
