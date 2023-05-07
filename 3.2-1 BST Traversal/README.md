@@ -1,18 +1,13 @@
-## Getting Started
+# Binary Search Tree Traversal
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+After learning about the Binary Search Tree, our assignment was to traverse the tree. In class we were only showed how each traversal should look like without finding out the code. In this assignment we had to copy the entire BST class from the algs4 library and add in the three traversals directly into the class. The three traversals in question are: 
 
-## Folder Structure
+- Inorder
+- Preorder
+- Postorder
 
-The workspace contains two folders by default, where:
+You can see my recursive implementation of these traversals in the BST.java file within the src folder.   
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Disclaimer: The only code that I wrote and added to the file was past line 530 in the file. Everything else was copied from the algs4 implementation of it.    
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Side-Note: We were told to implement the traversals recursively but I am aware that it can also be done by using a stack.
