@@ -1,18 +1,17 @@
-## Getting Started
+# Counting the Occurences
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Symbol Tables were the main topic of this assignment, or dictionaries from Python is how I first learned about them. In this assignment we were to use the symbol table provided by the algs4 library.
 
-## Folder Structure
+## Objective
 
-The workspace contains two folders by default, where:
+The entire assignment was a test client in which the program takes in either an entire book or section of a book and then count the occurence of each word and then print out the amount of occurences of each word. The books tested consisted of: 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- *A Tale of Two Cities* by Charles Dickens
+- *The Adventures of Sherlock Holmes* by Arthur Conan Doyle
+- *The Count of Monte Cristo* by Alexandre Dumas and Auguste Maquet
+- *Moby Dick* by Herman Melville
+- *A Time Machine* by H. G. Wells
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+You can find the results in: /bin/output/...
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The nuances of this project is that words have been separated by spaces, tabs and nextlines; also, I decided to separate hyphenated words. 

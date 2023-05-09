@@ -1,18 +1,15 @@
-## Getting Started
+# Quicksort
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+After learning about the more efficient quicksort, we created an airport class that would be sortable with the use of quicksort from algs4.
 
-## Folder Structure
+## Airport Class
 
-The workspace contains two folders by default, where:
+This class takes in the following information about the airport:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Airport Code
+- Airport Name
+- Airport Municipality
+- Airport Region
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Using the information there are the basic getter and setter functions for the class as well as overriding the toString() method and compareTo() method.
+Specifically for the compareTo() we decided to have the airports be compared by Airport Code so when an array of airports gets quicksorted they airports will be sorted by ascending airport code.
